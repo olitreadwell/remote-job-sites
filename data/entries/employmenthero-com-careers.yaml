@@ -1,7 +1,8 @@
 name: employmenthero.com
 url: https://employmenthero.com/careers
 status: live
-category: company-careers
-apply_type: unknown
+category: job-board
+apply_type: quick
 source: [remote-jobs]
 checked: '2026-09-02'
+tags: [nz]
