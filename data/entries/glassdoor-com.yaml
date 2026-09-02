@@ -1,0 +1,7 @@
+name: glassdoor.com
+url: https://www.glassdoor.com/
+status: live
+category: job-board
+apply_type: quick
+source: [awesome-job-boards, awesome-sustainability-jobs, hiring-without-whiteboards, remote-job-sites, trinh-job-boards]
+checked: '2026-09-02'

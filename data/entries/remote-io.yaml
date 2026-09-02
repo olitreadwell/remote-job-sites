@@ -1,0 +1,7 @@
+name: remote.io
+url: https://remote.io/
+status: live
+category: job-board
+apply_type: quick
+source: [awesome-remote-job, remote-job-sites]
+checked: '2026-09-02'

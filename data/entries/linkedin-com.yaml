@@ -1,0 +1,7 @@
+name: linkedin.com
+url: https://www.linkedin.com/
+status: live
+category: job-board
+apply_type: quick
+source: [awesome-job-boards, remote-job-sites, trinh-job-boards]
+checked: '2026-09-02'

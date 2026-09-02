@@ -1,0 +1,7 @@
+name: indeed.com
+url: https://www.indeed.com/
+status: blocked
+category: job-board
+apply_type: quick
+source: [awesome-job-boards, remote-job-sites, trinh-job-boards, user]
+checked: '2026-09-02'

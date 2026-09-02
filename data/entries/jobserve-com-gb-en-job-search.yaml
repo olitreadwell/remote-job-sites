@@ -1,0 +1,7 @@
+name: jobserve.com
+url: https://www.jobserve.com/gb/en/Job-Search/
+status: live
+category: job-board
+apply_type: quick
+source: [awesome-job-boards, trinh-job-boards]
+checked: '2026-09-02'
