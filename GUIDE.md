@@ -1,24 +1,24 @@
 # Directory
 
-Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this file.
+Generated 2026-09-23 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this file.
 
-**2509 entries** — 2212 live, 113 bot-blocked, 184 dead.
+**2509 entries**: 2212 live, 113 bot-blocked, 184 dead.
 
 ## Live
 
 ### job-board
 
-- [aidevboard.com](https://aidevboard.com) — tags: ai
-- [aijobs.net](https://aijobs.net/) — tags: ai
+- [aidevboard.com](https://aidevboard.com) (tags: ai)
+- [aijobs.net](https://aijobs.net/) (tags: ai)
 - [angel.co](https://angel.co/)
 - [authenticjobs.com](https://authenticjobs.com/)
 - [beefrii.com](https://beefrii.com/)
 - [citizenremote.com](https://citizenremote.com/)
-- [climatebase.org](https://climatebase.org/) — tags: climate
-- [cwjobs.co.uk](https://www.cwjobs.co.uk/) — tags: uk
+- [climatebase.org](https://climatebase.org/) (tags: climate)
+- [cwjobs.co.uk](https://www.cwjobs.co.uk/) (tags: uk)
 - [dailyremote.com](https://dailyremote.com/)
 - [dynamitejobs.co](https://dynamitejobs.co/)
-- [employmenthero.com](https://employmenthero.com/careers) — tags: nz
+- [employmenthero.com](https://employmenthero.com/careers) (tags: nz)
 - [eurojobs.com](https://eurojobs.com/)
 - [findasync.com](https://findasync.com/)
 - [glassdoor.com](https://www.glassdoor.com/)
@@ -26,7 +26,7 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [hired.com](https://hired.com/home)
 - [hired.com](https://hired.com/x/BLM7Ki)
 - [jobgether.com](https://jobgether.com/)
-- [jobserve.com](https://www.jobserve.com/gb/en/Job-Search/) — tags: uk
+- [jobserve.com](https://www.jobserve.com/gb/en/Job-Search/) (tags: uk)
 - [jobspresso.co](https://jobspresso.co/remote-work/)
 - [jobspresso.co](https://jobspresso.co/)
 - [jsremotely.com](https://jsremotely.com/)
@@ -42,10 +42,10 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [nodesk.co](https://nodesk.co/remote-jobs/)
 - [nodesk.co](https://nodesk.co/)
 - [novisajobs.com](https://novisajobs.com/)
-- [otta.com](https://otta.com/) — tags: startup
+- [otta.com](https://otta.com/) (tags: startup)
 - [pangian.com](https://pangian.com/)
 - [ratracerebellion.com](https://ratracerebellion.com/)
-- [reed.co.uk](https://www.reed.co.uk/) — tags: uk
+- [reed.co.uk](https://www.reed.co.uk/) (tags: uk)
 - [remote.io](https://remote.io/)
 - [remote4me.com](https://remote4me.com/)
 - [remotehub.io](https://remotehub.io/)
@@ -61,18 +61,18 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [remotive.io](https://remotive.io/)
 - [skipthedrive.com](https://www.skipthedrive.com/)
 - [smoothremote.com](https://smoothremote.com/)
-- [startup.jobs](https://startup.jobs/) — tags: startup
+- [startup.jobs](https://startup.jobs/) (tags: startup)
 - [theremotework.co](https://theremotework.co/remote-software-development-jobs)
 - [theremotework.co](https://theremotework.co/)
-- [usajobs.gov](https://www.usajobs.gov/) — tags: government
-- [wellfound.com](https://wellfound.com/jobs) — tags: startup
+- [usajobs.gov](https://www.usajobs.gov/) (tags: government)
+- [wellfound.com](https://wellfound.com/jobs) (tags: startup)
 - [weworkremotely.com](https://weworkremotely.com/jobs/2867-senior-software-engineer)
 - [weworkremotely.com](https://weworkremotely.com/)
 - [workingnomads.co](https://www.workingnomads.co/)
 - [workingnomads.com](https://www.workingnomads.com/jobs)
-- [ycombinator.com](https://www.ycombinator.com/companies/mixrank) — tags: startup
-- [ycombinator.com](https://www.ycombinator.com/companies/swif-ai/jobs) — tags: startup
-- [ycombinator.com](https://www.ycombinator.com/jobs) — tags: startup
+- [ycombinator.com](https://www.ycombinator.com/companies/mixrank) (tags: startup)
+- [ycombinator.com](https://www.ycombinator.com/companies/swif-ai/jobs) (tags: startup)
+- [ycombinator.com](https://www.ycombinator.com/jobs) (tags: startup)
 - [ziprecruiter.com](https://www.ziprecruiter.com/)
 
 ### company-careers
@@ -2181,54 +2181,54 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 
 ### resource
 
-- [airtable.com](https://airtable.com/careers) — tags: spreadsheet
-- [docs.google.com](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) — tags: spreadsheet
-- [docs.google.com](https://docs.google.com/document/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/edit) — tags: spreadsheet
-- [github.com](https://github.com/about/careers) — tags: github-list
-- [github.com](https://github.com/about/jobs) — tags: github-list
-- [github.com](https://github.com/andrwspt/jobfit) — tags: github-list
-- [github.com](https://github.com/AutoScout24/hiring) — tags: github-list
-- [github.com](https://github.com/Babylonpartners/iOS-Interview-Demo) — tags: github-list
-- [github.com](https://github.com/blogfoster/join-the-engineering-team) — tags: github-list
-- [github.com](https://github.com/Dbz/job-board/blob/master/hired.md) — tags: github-list
-- [github.com](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs) — tags: github-list
-- [github.com](https://github.com/heynish/werkstudent-praktikum-jobs) — tags: github-list
-- [github.com](https://github.com/j-delaney/easy-application) — tags: github-list
-- [github.com](https://github.com/jwasham/coding-interview-university) — tags: github-list
-- [github.com](https://github.com/kennymkchan/interview-questions-in-javascript) — tags: github-list
-- [github.com](https://github.com/lodthe/awesome-internships) — tags: github-list
-- [github.com](https://github.com/madetech/handbook/tree/master/guides/hiring) — tags: github-list
-- [github.com](https://github.com/novoda/dojos) — tags: github-list
-- [github.com](https://github.com/nutshellcrm/join-the-team) — tags: github-list
-- [github.com](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml) — tags: github-list
-- [github.com](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg) — tags: github-list
-- [github.com](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) — tags: github-list
-- [github.com](https://github.com/poteto/hiring-without-whiteboards) — tags: github-list
-- [github.com](https://github.com/privacycloud/jobs) — tags: github-list
-- [github.com](https://github.com/remote-es/remotes) — tags: github-list
-- [github.com](https://github.com/remoteintech/remote-jobs) — tags: github-list
-- [github.com](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) — tags: github-list
-- [github.com](https://github.com/sindresorhus/awesome) — tags: github-list
-- [github.com](https://github.com/strelov1/freehire) — tags: github-list
-- [github.com](https://github.com/thatmlopsguy/remote-pt) — tags: github-list
-- [github.com](https://github.com/timqian/open-source-jobs) — tags: github-list
-- [github.com](https://github.com/topics/jobsearch) — tags: github-list
-- [github.com](https://github.com/topics/tech-jobs) — tags: github-list
-- [github.com](https://github.com/urbdyn/coding_exercises) — tags: github-list
-- [github.com](https://github.com/yanirs/established-remote) — tags: github-list
-- [hn.algolia.com](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wants+to+be+hired&sort=byDate&type=story) — tags: community
-- [levels.fyi](https://levels.fyi/jobs) — tags: salary-data
-- [levels.fyi](https://www.levels.fyi/?compare=Qualcomm%2CIntuit%2CApple&track=Software+Engineer) — tags: salary-data
+- [airtable.com](https://airtable.com/careers) (tags: spreadsheet)
+- [docs.google.com](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) (tags: spreadsheet)
+- [docs.google.com](https://docs.google.com/document/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/edit) (tags: spreadsheet)
+- [github.com](https://github.com/about/careers) (tags: github-list)
+- [github.com](https://github.com/about/jobs) (tags: github-list)
+- [github.com](https://github.com/andrwspt/jobfit) (tags: github-list)
+- [github.com](https://github.com/AutoScout24/hiring) (tags: github-list)
+- [github.com](https://github.com/Babylonpartners/iOS-Interview-Demo) (tags: github-list)
+- [github.com](https://github.com/blogfoster/join-the-engineering-team) (tags: github-list)
+- [github.com](https://github.com/Dbz/job-board/blob/master/hired.md) (tags: github-list)
+- [github.com](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs) (tags: github-list)
+- [github.com](https://github.com/heynish/werkstudent-praktikum-jobs) (tags: github-list)
+- [github.com](https://github.com/j-delaney/easy-application) (tags: github-list)
+- [github.com](https://github.com/jwasham/coding-interview-university) (tags: github-list)
+- [github.com](https://github.com/kennymkchan/interview-questions-in-javascript) (tags: github-list)
+- [github.com](https://github.com/lodthe/awesome-internships) (tags: github-list)
+- [github.com](https://github.com/madetech/handbook/tree/master/guides/hiring) (tags: github-list)
+- [github.com](https://github.com/novoda/dojos) (tags: github-list)
+- [github.com](https://github.com/nutshellcrm/join-the-team) (tags: github-list)
+- [github.com](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml) (tags: github-list)
+- [github.com](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg) (tags: github-list)
+- [github.com](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) (tags: github-list)
+- [github.com](https://github.com/poteto/hiring-without-whiteboards) (tags: github-list)
+- [github.com](https://github.com/privacycloud/jobs) (tags: github-list)
+- [github.com](https://github.com/remote-es/remotes) (tags: github-list)
+- [github.com](https://github.com/remoteintech/remote-jobs) (tags: github-list)
+- [github.com](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) (tags: github-list)
+- [github.com](https://github.com/sindresorhus/awesome) (tags: github-list)
+- [github.com](https://github.com/strelov1/freehire) (tags: github-list)
+- [github.com](https://github.com/thatmlopsguy/remote-pt) (tags: github-list)
+- [github.com](https://github.com/timqian/open-source-jobs) (tags: github-list)
+- [github.com](https://github.com/topics/jobsearch) (tags: github-list)
+- [github.com](https://github.com/topics/tech-jobs) (tags: github-list)
+- [github.com](https://github.com/urbdyn/coding_exercises) (tags: github-list)
+- [github.com](https://github.com/yanirs/established-remote) (tags: github-list)
+- [hn.algolia.com](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wants+to+be+hired&sort=byDate&type=story) (tags: community)
+- [levels.fyi](https://levels.fyi/jobs) (tags: salary-data)
+- [levels.fyi](https://www.levels.fyi/?compare=Qualcomm%2CIntuit%2CApple&track=Software+Engineer) (tags: salary-data)
 - [medium.com](https://medium.com/)
-- [news.ycombinator.com](https://news.ycombinator.com/item?id=13874026) — tags: community
-- [news.ycombinator.com](https://news.ycombinator.com/jobs) — tags: community
-- [news.ycombinator.com](https://news.ycombinator.com/submitted?id=whoishiring) — tags: community
+- [news.ycombinator.com](https://news.ycombinator.com/item?id=13874026) (tags: community)
+- [news.ycombinator.com](https://news.ycombinator.com/jobs) (tags: community)
+- [news.ycombinator.com](https://news.ycombinator.com/submitted?id=whoishiring) (tags: community)
 - [notion.so](https://www.notion.so/9b9e8dbcc5a2415f9da69f1e00617f94?v=cdd6935b11024b68aba4375714c7cc00)
 - [one-tab.com](https://www.one-tab.com/page/0jwPykbmSVKrz1jLMYy4BQ)
-- [reddit.com](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all) — tags: community
-- [x.com](https://x.com/jobs) — tags: social
-- [x.com](https://x.com/simplabs) — tags: social
-- [x.com](https://x.com/transloadit) — tags: social
+- [reddit.com](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all) (tags: community)
+- [x.com](https://x.com/jobs) (tags: social)
+- [x.com](https://x.com/simplabs) (tags: social)
+- [x.com](https://x.com/transloadit) (tags: social)
 
 ## Blocked
 
@@ -2254,10 +2254,10 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [remotefrontendjobs.com](https://www.remotefrontendjobs.com/)
 - [rubyonremote.com](https://rubyonremote.com/)
 - [technical.ly](https://technical.ly/jobs/)
-- [totaljobs.com](https://www.totaljobs.com/) — tags: uk
-- [wellfound.com](https://wellfound.com/company/i-stem/jobs) — tags: startup
-- [workatastartup.com](https://www.workatastartup.com/job_list) — tags: startup
-- [workinstartups.com](https://workinstartups.com/) — tags: uk, startup
+- [totaljobs.com](https://www.totaljobs.com/) (tags: uk)
+- [wellfound.com](https://wellfound.com/company/i-stem/jobs) (tags: startup)
+- [workatastartup.com](https://www.workatastartup.com/job_list) (tags: startup)
+- [workinstartups.com](https://workinstartups.com/) (tags: uk, startup)
 
 ### company-careers
 
@@ -2352,7 +2352,7 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 
 ### resource
 
-- [github.com](https://github.com/ParabolInc/action/projects) — tags: github-list
+- [github.com](https://github.com/ParabolInc/action/projects) (tags: github-list)
 
 ## Dead
 
@@ -2361,7 +2361,7 @@ Generated 2026-09-03 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [flexjobs.com](http://www.flexjobs.com/jobs/)
 - [flexjobs.com](https://www.flexjobs.com/)
 - [growmotely.com](https://www.growmotely.com/)
-- [jobs.govt.nz](https://jobs.govt.nz/jobtools/jncustomsearch.searchResults) — tags: government, nz
+- [jobs.govt.nz](https://jobs.govt.nz/jobtools/jncustomsearch.searchResults) (tags: government, nz)
 - [pangian.com](https://pangian.com/remote/job-board/)
 - [people-first.jobs](https://people-first.jobs/)
 - [remote.co](https://remote.co/remote-jobs/)
