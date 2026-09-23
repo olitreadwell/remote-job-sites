@@ -1,8 +1,0 @@
-name: news.ycombinator.com
-url: https://news.ycombinator.com/submitted?id=whoishiring
-status: live
-category: resource
-apply_type: unknown
-source: [user]
-checked: '2026-09-02'
-tags: [community]
