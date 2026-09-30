@@ -14,11 +14,11 @@ file with a verified URL, status, category, apply type, source, and tags.
 Consolidated and deduplicated from popular community lists, then checked with
 [lychee](https://github.com/lycheeverse/lychee).
 
-Current state (checked 2026-09-03):
+Current state (checked 2026-09-29):
 
-- **2067 live**: reachable and returning 2xx/3xx
-- **92 bot-blocked**: site is up but blocks automated checks (403/429)
-- **167 dead or unreachable**: 404, 5xx, DNS/TLS errors, or timeout
+- **2054 live**: reachable and returning 2xx/3xx
+- **51 bot-blocked**: site is up but blocks automated checks (403/429)
+- **216 dead or unreachable**: 404, 5xx, DNS/TLS errors, or timeout
 
 ## Browse it
 

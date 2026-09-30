@@ -1,8 +1,8 @@
 name: workatastartup.com
-url: https://www.workatastartup.com/job_list
-status: blocked
+url: https://www.workatastartup.com/jobs
+status: live
 category: job-board
 apply_type: quick
 source: [awesome-job-boards]
-checked: '2026-09-02'
+checked: '2026-09-29'
 tags: [startup]

@@ -1,7 +1,7 @@
 name: citizenremote.com
 url: https://citizenremote.com/
 status: live
-category: job-board
-apply_type: quick
+category: resource
+apply_type: unknown
 source: [remote-job-sites]
-checked: '2026-09-02'
+checked: '2026-09-29'

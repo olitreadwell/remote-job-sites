@@ -1,7 +1,7 @@
-name: fiverr.com
-url: https://www.fiverr.com/
+name: jobs.uber.com
+url: https://jobs.uber.com/en/
 status: live
 category: company-careers
 apply_type: unknown
-source: [awesome-job-boards]
+source: [remote-job-sites]
 checked: '2026-09-29'
