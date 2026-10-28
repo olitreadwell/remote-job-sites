@@ -2,7 +2,7 @@
 
 Generated 2026-10-29 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this file.
 
-**2321 entries**: 2027 live, 56 bot-blocked, 238 dead.
+**2321 entries**: 2026 live, 56 bot-blocked, 239 dead.
 
 ## Live
 
@@ -1447,7 +1447,6 @@ Generated 2026-10-29 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [powertofly.com](https://powertofly.com/jobs/)
 - [pragma.com.co](https://www.pragma.com.co/ofertas-de-empleo)
 - [pragma.team](https://pragma.team/talent)
-- [prakse.lv](https://www.prakse.lv/lv)
 - [precisionnutrition.com](https://www.precisionnutrition.com/jobs)
 - [predictionjobs.co](https://predictionjobs.co)
 - [predictmobile.com](https://predictmobile.com)
@@ -2284,6 +2283,7 @@ Generated 2026-10-29 by `scripts/build.py`. Edit `data/entries/*.yaml`, not this
 - [paytmlabs.com](https://paytmlabs.com/)
 - [picnic.app](https://picnic.app/en/jobs)
 - [pitch.com](https://pitch.com/en/jobs/)
+- [prakse.lv](https://www.prakse.lv/lv)
 - [prelude.co](https://www.prelude.co/careers)
 - [projectplato.com](https://www.projectplato.com/jobs)
 - [pythonjob.xyz](https://pythonjob.xyz/)
